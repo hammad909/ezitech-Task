@@ -72,6 +72,7 @@ This project is licensed under the MIT License.
 *   Integration with external authentication providers.
 *   Real-time attendance tracking.
 *   Mobile app development.
+  
 
 ## Contact
 
