@@ -72,8 +72,11 @@ This project is licensed under the MIT License.
 *   Integration with external authentication providers.
 *   Real-time attendance tracking.
 *   Mobile app development.
-  
 
-## Contact
 
-*(Provide contact information if you wish.)*
+  ## ScreenShots 
+  ![WhatsApp Image 2025-01-14 at 1 32 00 PM (1)](https://github.com/user-attachments/assets/ea44cf83-4ccc-4b12-9585-bfb24f3fef30)
+  ## Student
+  ![WhatsApp Image 2025-01-14 at 1 31 59 PM](https://github.com/user-attachments/assets/6d50a598-0ef5-4437-b253-b9981364a8ac)
+  ## Admin
+  ![WhatsApp Image 2025-01-14 at 1 32 00 PM](https://github.com/user-attachments/assets/39c77ab3-281e-4620-b4d8-e3fe4b2c125f)
