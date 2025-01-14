@@ -26,25 +26,8 @@ This repository contains the code for an Attendance Management System, designed 
 ## Technologies Used
 
 *   *(List the technologies used in your project. Examples:)*
-    *   Frontend: HTML, CSS, JavaScript, React, Vue.js, etc.
-    *   Backend: Python (Django/Flask), Node.js (Express), PHP, etc.
-    *   Database: MySQL, PostgreSQL, MongoDB, etc.
-
-## Installation
-
-1.  Clone the repository: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
-2.  Navigate to the project directory: `cd YOUR_REPO_NAME`
-3.  *(Provide specific installation instructions based on your project's tech stack. Examples:)*
-    *   **Python (Django):**
-        *   Create a virtual environment: `python3 -m venv venv`
-        *   Activate the environment: `source venv/bin/activate` (Linux/macOS) or `venv\Scripts\activate` (Windows)
-        *   Install dependencies: `pip install -r requirements.txt`
-        *   Migrate the database: `python manage.py migrate`
-        *   Run the development server: `python manage.py runserver`
-    *   **Node.js (Express):**
-        *   Install dependencies: `npm install`
-        *   Start the server: `npm start`
-4.  *(Database Setup: Provide instructions on setting up the database.)*
+    *   Frontend: Kotlin,JetPack Compose.
+    *   Database: fireBase.
 
 ## Usage
 
@@ -55,16 +38,6 @@ This repository contains the code for an Attendance Management System, designed 
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
-
-*(Specify the license under which your project is distributed. Example:)*
-
-This project is licensed under the MIT License.
-
-## Screenshots (Optional)
-
-*(Include screenshots of the user and admin panels to visually showcase the application.)*
-
 ## Future Enhancements (Optional)
 
 *(List any planned future features or improvements.)*
@@ -72,7 +45,6 @@ This project is licensed under the MIT License.
 *   Integration with external authentication providers.
 *   Real-time attendance tracking.
 *   Mobile app development.
-
 
 ## ScreenShots 
 
