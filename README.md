@@ -74,9 +74,12 @@ This project is licensed under the MIT License.
 *   Mobile app development.
 
 
-  ## ScreenShots 
- <img src="https://github.com/user-attachments/assets/ea44cf83-4ccc-4b12-9585-bfb24f3fef30" alt="Attendance Management Screenshot" width="500"/>
-  ## Student
- <img src="https://github.com/user-attachments/assets/6d50a598-0ef5-4437-b253-b9981364a8ac" alt="Attendance Management Screenshot" width="500"/>
+## ScreenShots 
+
+ <img src="https://github.com/user-attachments/assets/ea44cf83-4ccc-4b12-9585-bfb24f3fef30" alt="Attendance Management Screenshot" width="400"/>
+ 
+## Student
+ <img src="https://github.com/user-attachments/assets/6d50a598-0ef5-4437-b253-b9981364a8ac" alt="Attendance Management Screenshot" width="400"/>
+ 
   ## Admin
-<img src="https://github.com/user-attachments/assets/39c77ab3-281e-4620-b4d8-e3fe4b2c125f" alt="Attendance Management Screenshot" width="500"/>
+<img src="https://github.com/user-attachments/assets/39c77ab3-281e-4620-b4d8-e3fe4b2c125f" alt="Attendance Management Screenshot" width="400"/>
